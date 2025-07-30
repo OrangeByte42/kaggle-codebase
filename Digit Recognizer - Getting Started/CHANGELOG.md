@@ -9,12 +9,15 @@ Basic Info:
 
 ## Added
 
+- v1.1.3 Use dropout for alleviating overfitting;
 - v1.1.2 Adapted device selection logic (by GPU/CPU);
 - v1.1.2 Use total data to train for submission;
 - v1.1.1 MLP implementation;
 
 ## Changed
 
+- v1.1.3 Use PyTorch default parameter initialization;
+- v1.1.3 Increate epoch_nums from 400 to 500;
 - v1.1.2 Increase epoch_nums (artificial selection, avoid overfitting);
 
 ## Fixed
