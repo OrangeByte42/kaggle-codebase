@@ -9,7 +9,13 @@ Basic Info:
 
 ## Added
 
+- v1.1.2 Adapted device selection logic (by GPU/CPU);
+- v1.1.2 Use total data to train for submission;
 - v1.1.1 MLP implementation;
+
+## Changed
+
+- v1.1.2 Increase epoch_nums (artificial selection, avoid overfitting);
 
 ## Fixed
 
